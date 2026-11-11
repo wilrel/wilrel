@@ -35,33 +35,12 @@ Web developer with an interest in data. I build web apps with Laravel, Android a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wilrel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilrel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilrel&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wilrel&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-### Projects
-
-<div align="center">
-
-<a href="https://github.com/wilrel/TokoBerkahBI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilrel&repo=TokoBerkahBI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/wilrel/welandor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilrel&repo=welandor&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/wilrel/marketinsightscraper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilrel&repo=marketinsightscraper&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/wilrel/PortfolioProjectData">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilrel&repo=PortfolioProjectData&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
