@@ -28,7 +28,10 @@ Web developer with an interest in data. I build web apps with Laravel, Android a
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenRouter-94A3B8?style=for-the-badge&logo=openrouter&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/9Router-0F172A?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Hermes%20Agent-1F2937?style=for-the-badge&logoColor=white" />
 
 </div>
