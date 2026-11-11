@@ -19,13 +19,17 @@ Web developer with an interest in data. I build web apps with Laravel, Android a
 
 ---
 
-### Tech Stack
+### Stack & AI Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,java,kotlin,js,html,css,tailwind,bootstrap&perline=10" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,androidstudio,vscode,git,github,linux,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=laravel,python,kotlin,mysql,git" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenRouter-94A3B8?style=for-the-badge&logo=openrouter&logoColor=white" />
+<img src="https://img.shields.io/badge/Hermes%20Agent-1F2937?style=for-the-badge&logoColor=white" />
 
 </div>
 
